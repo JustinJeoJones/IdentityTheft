@@ -10,3 +10,4 @@ C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1
 C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.dll
 C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.pdb
 C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.genruntimeconfig.cache
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.csprojAssemblyReference.cache
