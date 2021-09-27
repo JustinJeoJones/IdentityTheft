@@ -1,0 +1,12 @@
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.exe
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.deps.json
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.runtimeconfig.json
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.dll
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.pdb
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.dll
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.pdb
+C:\Users\Jeo\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.genruntimeconfig.cache
